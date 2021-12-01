@@ -1,0 +1,12 @@
+importFrom("Rglpk", "Rglpk_solve_LP")
+
+importFrom("graphics", "abline", "plot", "points", "legend")
+
+importFrom("stats", "predict", "sd")
+
+importFrom("utils", "combn")
+
+S3method(predict, lpda)
+S3method(plot, lpda)
+export(lpda, lpda.fit, lpda.pca, PCA, stand, stand2, bestVariability, bestPC, lpdaCV, CVloo, CVktest)
+

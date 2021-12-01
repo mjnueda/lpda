@@ -1,0 +1,20 @@
+Package: lpda
+Type: Package
+Title: Linear Programming Discriminant Analysis
+Version: 1.0.0
+Author: Maria Jose Nueda <mj.nueda@ua.es>
+Maintainer: Maria Jose Nueda <mj.nueda@ua.es>
+Description: Classification method obtained through linear programming.
+    It is advantageous with respect to the classical developments when the distribution of the variables
+    involved is unknown or when the number of variables is much greater than the number of individuals.
+Depends: R (>= 3.5.0)
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+Imports: Rglpk
+Suggests: 
+    rmarkdown,
+    knitr,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+VignetteBuilder: knitr
