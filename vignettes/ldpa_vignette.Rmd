@@ -3,7 +3,7 @@ title: 'lpda: Linear Programming Discriminant Analysis'
 author:
 - name: Maria J. Nueda
   affiliation: Department of Mathematics, Alicante Universiy, Spain
-date: "1 December 2021"
+date: "3 December 2021"
 output: rmarkdown::html_vignette
 vignette: >
   %\VignetteIndexEntry{ldpa_vignette}
@@ -238,7 +238,7 @@ plot(model.iris2, PCscores= TRUE)
 
 # References
 
-[1] Gandía, C., Molina, M.D. and Nueda, M.J. (2021) LPDA: Discriminant Analysis based in linear programming. Submitted.
+[1] Gandía, C., Molina, M.D. and Nueda, M.J. (2021) LPDA: A new classification method based on linear programming. Submitted.
 
 [2] Nueda, M.J., Gandía, C. and Molina, M.D. Classifying sequencing data using linear programming. Euro30 Conference, Dublin, June-2019.
  
