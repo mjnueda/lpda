@@ -8,7 +8,7 @@ To install this package, start R (version "4.0") and enter:
 
     install.packages("lpda")
 
-NEW version lpda 1.2.0 is able to deal with 3-dimensional data by multiway analysis.
+NEW version lpda 1.2.0 is able to deal with 3-dimensional data by applying multiway analysis.
 
 More information available on:
 
