@@ -13,6 +13,6 @@ NEW version lpda 1.2.0 is able to deal with 3-dimensional data by applying multi
 More information available on:
 
 - CRAN lpda web https://cran.r-project.org/web/packages/lpda/index.html
-- Gandía, C.; Molina, M.D. and Nueda, M.J. (2025) Adapting the lpda R package to Multiway data. In preparation
+- Gandía, C.; Molina, M.D. and Nueda, M.J. (2025) lpda R package: Linear Programming Discriminant Analysis for Multiway data. Submitted.
 
 
